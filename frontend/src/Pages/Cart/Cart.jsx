@@ -1,12 +1,12 @@
 import React from 'react'
-import './Navbar.css'
+import './Cart.css'
 
-const Navbar = () => {
+const Cart = () => {
   return (
     <div>
       
     </div>
   )
 }
-    
-export default Navbar
+
+export default Cart
